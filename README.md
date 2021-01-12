@@ -29,7 +29,7 @@ The website consists of 10 pages total, including:
   * Displays information related about desgin and designer.
   
     
-The website, at the top of every page, have a navigation menu that:
+The website, at the top of every page, has a navigation menu that:
 
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
